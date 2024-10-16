@@ -29,7 +29,6 @@ PS D:\>cd code-auditx
 ````
 ##### Example Output
 ![Example Output 1](https://github.com/I-am-Rudy/code-auditx/blob/main/1.png)
-
 ![Example Output 2](https://github.com/I-am-Rudy/code-auditx/blob/main/2.png)
 
 ---------------------------------------------------
