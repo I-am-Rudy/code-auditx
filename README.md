@@ -4,13 +4,6 @@ Code-AuditX is a python script that scans a directory, analyzes its files, and p
 
 ---------------------------------------------------
 
-### Tech Used
-
-- Python 3.x
-- OS Library
-
----------------------------------------------------
-
 ### Features
 
 - Detects file types based on extensions (Python, Assembly, Windowss DLL etc).
