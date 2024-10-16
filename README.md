@@ -52,6 +52,13 @@ Enter the directory path : C:\Windows
 
 ---------------------------------------------------
 
+### Notes
+
+- Currently it has problems working with Linux file-path-system in linux is quite different.
+- I will try to make changes to make it run as smooth in Linux as it does on Windows.
+  
+---------------------------------------------------
+
 ### License
 
 This project is licensed under the AGPL v3.0 license - see [LICENSE](https://github.com/I-am-Rudy/code-auditx/blob/main/LICENSE) file for details
