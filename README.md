@@ -28,9 +28,9 @@ Code-AuditX is a python script that scans a directory, analyzes its files, and  
 PS D:\>cd code-auditx
 ````
 ##### Example Output
-https://github.com/I-am-Rudy/code-auditx/blob/main/1.png
+![Example Output 1](https://github.com/I-am-Rudy/code-auditx/blob/main/1.png)
 
-https://github.com/I-am-Rudy/code-auditx/blob/main/2.png
+![Example Output 2](https://github.com/I-am-Rudy/code-auditx/blob/main/2.png)
 
 ---------------------------------------------------
 
