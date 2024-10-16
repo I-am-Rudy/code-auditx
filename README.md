@@ -18,7 +18,7 @@ Code-AuditX is a python script that scans a directory, analyzes its files, and p
 
 1. Clone the repository:
 ````
-git clone https://github.com/username/code-audtix.git
+git clone https://github.com/I-am-Rudy/code-audtix.git
 ````
 
 2. Navigate to the project directory:
@@ -43,7 +43,7 @@ python code-auditx.py
 
 2. When prompted, enter the path to the directory you want to analyze:
 ````
-**Enter the directory path** : C:\Windows
+Enter the directory path : C:\Windows
 ````
 
 3. The script will analyze the directory and display the file information:
