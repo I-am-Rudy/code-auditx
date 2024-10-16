@@ -1,6 +1,6 @@
 ### Code-AuditX
 
-Code-AuditX is a python script that scans a directory, analyzes its files, and  provides a summary of each file's type, total file size and total number of files. It is useful for quickly gathering insights about the contents of a folder, including extensions commonly used in **Forensics** and **Cybersecurity**.
+Code-AuditX is a python script that scans a directory, analyzes its files, and provides a summary of each file's type, total file size and total number of files. It is useful for quickly gathering insights about the contents of a folder, including extensions commonly used in **Forensics** and **Cybersecurity**. You can add more extensions in the [[extensions.py]] file.
 
 ---------------------------------------------------
 
@@ -18,18 +18,6 @@ Code-AuditX is a python script that scans a directory, analyzes its files, and  
 - Groups files by their extension and language.
 - Supports extensions related to Digital Forensics (.pcap, .exe, .dmp, .ps1 etc).
 - Provides a summary of total files and total size for each language and extension.
-
----------------------------------------------------
-
-### Code Example
-
-##### Example Directory
-````
-PS D:\>cd code-auditx
-````
-##### Example Output
-![Example Output 1](https://github.com/I-am-Rudy/code-auditx/blob/main/1.png)
-![Example Output 2](https://github.com/I-am-Rudy/code-auditx/blob/main/2.png)
 
 ---------------------------------------------------
 
@@ -62,14 +50,15 @@ python code-auditx.py
 
 2. When prompted, enter the path to the directory you want to analyze:
 ````
-Enter the directory path : C:\Windows
+**Enter the directory path** : C:\Windows
 ````
 
 3. The script will analyze the directory and display the file information:
-(image of output)
+![Example Output 1](https://github.com/I-am-Rudy/code-auditx/blob/main/1.png)
+![Example Output 2](https://github.com/I-am-Rudy/code-auditx/blob/main/2.png)
 
 ---------------------------------------------------
 
 ### License
 
-This project is licensed under the MIT license - see https://www.gnu.org/licenses/agpl-3.0.en.html file for details
+This project is licensed under the AGPL v3.0 license - see https://www.gnu.org/licenses/agpl-3.0.en.html file for details
