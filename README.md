@@ -54,8 +54,8 @@ Enter the directory path : C:\Windows
 
 ### Notes
 
-- Currently it has problems working with Linux file-path-system in linux is quite different.
-- I will try to make changes to make it run as smooth in Linux as it does on Windows.
+- Currently it has problems working with Linux because file/path system in linux is quite different.
+- I will try to make changes to make it run as smooth in Linux as it does on Windows :)
   
 ---------------------------------------------------
 
